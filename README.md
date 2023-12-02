@@ -58,7 +58,7 @@
 *	stride = 4
 *	M = 200
 *	latent_dim = 10
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/CONV_VAE_REC_E.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/CONV_VAE_REC_E.png"> 
 *	epochs = 150
 *	batch_size = 8
 *	f = 5
@@ -76,7 +76,7 @@
 *	window = 672
 *	stride = 4
 *	latent_dim = 6
-    <img align="right"  height="42%" width="42%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/LSTM_AE_REC_E.png"> 
+    <img align="right"  height="42%" width="42%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/LSTM_AE_REC_E.png"> 
 *	epochs = 150
 *	batch_size = 8
 *	optimizer = adam
@@ -90,7 +90,7 @@
 *	window = 672
 *	stride = 4
 *	M = 200
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/LSTM_VAE_REC_E.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/LSTM_VAE_REC_E.png"> 
 *	latent_dim = 10
 *	epochs = 150
 *	batch_size = 8
@@ -106,7 +106,7 @@
 *	stride = 4
 *	M = 200
 *	latent_dim = 10
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/CONV_VAE_REC_P.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/CONV_VAE_REC_P.png"> 
 *	epochs = 150
 *	batch_size = 8
 *	f = 5
@@ -124,7 +124,7 @@
 *	window = 672
 *	stride = 4
 *	M = 200
-    <img align="right"  height="50%" width="50%"  src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/LSTM_VAE_REC_P.png"> 
+    <img align="right"  height="50%" width="50%"  src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/LSTM_VAE_REC_P.png"> 
 *	latent_dim = 10
 *	epochs = 150
 *	batch_size = 8
@@ -138,7 +138,7 @@
 ### LSTM VAE Self-Attention Rec Prob
 *	window = 672
 *	stride = 4
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/LSTM_ATT_REC_P.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/LSTM_ATT_REC_P.png"> 
 *	M = 200
 *	latent_dim = 10
 *	epochs = 150
@@ -151,7 +151,7 @@
 
 ### Bi-LSTM VAE Self-Attention Rec Prob
 *	window = 672
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/Bi-LSTM_VAE_ATT_REC_P.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/Bi-LSTM_VAE_ATT_REC_P.png"> 
 *	stride = 4
 *	M = 200
 *	latent_dim = 10
@@ -165,7 +165,7 @@
 
 ### Bi-LSTM VAE Conv Self-Attention Rec Prob
 *	window = 672
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/Bi-LSTM_VAE_CONV_ATT_REC_P.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/Bi-LSTM_VAE_CONV_ATT_REC_P.png"> 
 *	stride = 4
 *	M = 200
 *	latent_dim = 10
