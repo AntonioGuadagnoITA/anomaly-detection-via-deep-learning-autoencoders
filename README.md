@@ -38,7 +38,7 @@
 *	window = 672
 *	stride = 4
 *	latent_dim = 6
-    <img align="right"  height="50%" width="50%" src="https://github.com/AGuadagno/Comparison_Autoencoders_Anomaly_Detection_Electricity_Consumption/blob/main/img/CONV_AE_REC_E.png"> 
+    <img align="right"  height="50%" width="50%" src="https://github.com/AntonioGuadagnoITA/anomaly-detection-via-deep-learning-autoencoders/blob/main/img/CONV_AE_REC_E.png"> 
 *	epochs = 150
 *	batch_size = 8
 *	f = 7
